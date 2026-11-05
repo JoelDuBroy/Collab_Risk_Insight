@@ -9,3 +9,4 @@
 2026-11-05 05:05 - add_github_client
 2026-11-05 05:42 - add_metrics_engine
 2026-11-05 06:18 - add_llm_adapter
+2026-11-05 06:51 - add_evidence_grounding
