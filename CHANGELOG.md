@@ -6,3 +6,4 @@
 2026-11-04 21:08 - add_runtime_config
 2026-11-04 22:15 - add_secret_redaction
 2026-11-04 22:41 - add_sqlite_store
+2026-11-05 05:05 - add_github_client
