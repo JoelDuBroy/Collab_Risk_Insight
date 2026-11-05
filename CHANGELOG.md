@@ -7,3 +7,4 @@
 2026-11-04 22:15 - add_secret_redaction
 2026-11-04 22:41 - add_sqlite_store
 2026-11-05 05:05 - add_github_client
+2026-11-05 05:42 - add_metrics_engine
