@@ -1,0 +1,14 @@
+node_modules/
+dist/
+data/
+.env
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sqlite
+*.sqlite-journal
+_make_history.ps1
+AIML*.pdf
+*.png
