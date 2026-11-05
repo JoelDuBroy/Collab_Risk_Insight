@@ -10,3 +10,4 @@
 2026-11-05 05:42 - add_metrics_engine
 2026-11-05 06:18 - add_llm_adapter
 2026-11-05 06:51 - add_evidence_grounding
+2026-11-05 07:22 - add_insights_service
