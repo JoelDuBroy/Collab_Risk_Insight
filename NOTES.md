@@ -24,7 +24,7 @@ npm run dev:api
 
 - UI + API: http://localhost:3000  
 - Tests: `npm test`  
-- Defaults: `vercel/swr`, 30-day window, `LLM_PROVIDER=mock`, SQLite at `./data/collab_risk_insight.sqlite`
+- Defaults: `fastapi/fastapi` (`https://github.com/fastapi/fastapi`), 30-day window, `LLM_PROVIDER=mock`, SQLite at `./data/collab_risk_insight.sqlite`
 
 **Example UI query**
 
